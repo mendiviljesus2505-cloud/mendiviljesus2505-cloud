@@ -5,7 +5,7 @@
 🎓 **Estudiante de Ingeniería de Sistemas (9no Ciclo)** 💡 Apasionado por la transformación digital, el análisis de datos y la innovación
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/mendivil-imbertis-jesus/)
-[![GitHub followers](https://img.shields.io/github/followers/JesusMendivilDev?label=Seguidores&style=social)](https://github.com/mendiviljesus2505-cloud)
+[![GitHub followers](https://img.shields.io/github/followers/mendiviljesus2505-cloud?label=Seguidores&style=social)](https://github.com/mendiviljesus2505-cloud)
 
 </div>
 
