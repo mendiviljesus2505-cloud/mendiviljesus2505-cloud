@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jesús Mendivil
+# 👋 ¡Hola! Soy Jesus Mendivil
 
 <div align="center">
 
@@ -13,29 +13,29 @@
 
 ## 🚀 Sobre mí
 
-[cite_start]Soy un **Ingeniero de Sistemas en formación** [cite: 6] [cite_start]con un enfoque multidisciplinario que combina el desarrollo de software con la gestión de proyectos y el análisis de datos[cite: 8]. [cite_start]Me destaco por mi capacidad de liderazgo colaborativo y mi adaptabilidad a nuevos retos tecnológicos[cite: 35, 39].
+Soy un **Ingeniero de Sistemas en formación** con un enfoque multidisciplinario que combina el desarrollo de software con la gestión de proyectos y el análisis de datos. Me destaco por mi capacidad de liderazgo colaborativo y mi adaptabilidad a nuevos retos tecnológicos.
 
-- [cite_start]🎓 **Excelencia Académica:** Segundo puesto histórico en la carrera de Ingeniería de Sistemas en la UCV[cite: 12].
-- [cite_start]💼 **Emprendimiento:** Co-fundador de **Nova Studio**, donde lidero el diseño de soluciones web personalizadas[cite: 41, 42].
-- [cite_start]🔬 **Investigación:** Co-autor de publicaciones sobre sistemas de riego inteligentes con IoT y Machine Learning.
-- [cite_start]🎯 **Objetivo:** Impulsar la optimización de procesos mediante tecnología de vanguardia[cite: 9].
+* 🎓 **Excelencia Académica:** Segundo puesto histórico en la carrera de Ingeniería de Sistemas en la UCV.
+* 💼 **Emprendimiento:** Co-fundador de **Nova Studio**, donde lidero el diseño de soluciones web personalizadas.
+* 🔬 **Investigación:** Co-autor de publicaciones sobre sistemas de riego inteligentes con IoT y Machine Learning.
+* 🎯 **Objetivo:** Impulsar la optimización de procesos mediante tecnología de vanguardia.
 
 ---
 
 ## 🏆 Proyectos Destacados
 
 ### 🌾 **Sistema de Riego Inteligente (IoT & ML)**
-> [cite_start]**Logro:** 🥈 Segundo Lugar en Expowork Internacional 2024-II[cite: 86, 135].
-> [cite_start]**Tecnología:** ESP32 + OpenCV + Python + Telegram[cite: 86, 135].
-> [cite_start]**Descripción:** Proyecto premiado que integra monitoreo en tiempo real y energías renovables para el cuidado eficiente de plantas[cite: 135].
+> **Logro:** 🥈 Segundo Lugar en Expowork Internacional 2024-II  
+> **Tecnología:** ESP32 + OpenCV + Python + Telegram  
+> **Descripción:** Proyecto premiado que integra monitoreo en tiempo real y energías renovables para el cuidado eficiente de plantas.
 
 ### 📊 **Dashboard de Control de Gastos - MIGAMA**
-> [cite_start]**Tecnología:** Power BI + ETL + Procesos OLAP[cite: 50, 51].
-> [cite_start]**Descripción:** Sistema de análisis financiero que facilita la toma de decisiones estratégicas mediante reportes dinámicos e indicadores clave[cite: 51].
+> **Tecnología:** Power BI + ETL + Procesos OLAP  
+> **Descripción:** Sistema de análisis financiero que facilita la toma de decisiones estratégicas mediante reportes dinámicos e indicadores clave.
 
 ### 📦 **Sistema Web de Inventario - Cober Construcciones**
-> [cite_start]**Tecnología:** PHP + MySQL + JavaScript + HTML/CSS[cite: 56].
-> [cite_start]**Descripción:** Plataforma responsiva para gestión de materiales, generación de presupuestos en PDF e historial de cotizaciones[cite: 57, 58].
+> **Tecnología:** PHP + MySQL + JavaScript + HTML/CSS  
+> **Descripción:** Plataforma responsiva para gestión de materiales, generación de presupuestos en PDF e historial de cotizaciones.
 
 ---
 
@@ -61,10 +61,10 @@
 ---
 
 ## 📜 Certificaciones Clave
-* [cite_start]**PCAP:** Programming Essentials in Python (Cisco)[cite: 78, 100].
-* [cite_start]**CCNA v7:** Introduction to Networks (Cisco)[cite: 80, 110].
-* [cite_start]**Data Scientist Fundamentals:** Big Data Academy[cite: 125].
-* [cite_start]**Operating Systems Basics:** Cisco Networking Academy[cite: 177].
+* **PCAP:** Programming Essentials in Python (Cisco).
+* **CCNA v7:** Introduction to Networks (Cisco).
+* **Data Scientist Fundamentals:** Big Data Academy.
+* **Operating Systems Basics:** Cisco Networking Academy.
 
 ---
 
@@ -72,9 +72,9 @@
 
 <div align="center">
 
-[cite_start]📧 **Email:** [mendiviljesus2505@gmail.com](mailto:mendiviljesus2505@gmail.com) [cite: 2]  
-[cite_start]🌐 **Nova Studio:** [www.novastud.com](http://www.novastud.com) [cite: 44]  
-[cite_start]🏢 **Empresa Familiar:** [www.mendivileirl.com](http://www.mendivileirl.com) [cite: 47]
+📧 **Email:** [mendiviljesus2505@gmail.com](mailto:mendiviljesus2505@gmail.com)  
+🌐 **Nova Studio:** [www.novastud.com](http://www.novastud.com)  
+🏢 **Empresa Familiar:** [www.mendivileirl.com](http://www.mendivileirl.com)
 
 </div>
 
