@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jesus Mendivil
+# ¡Hola! Soy Jesus Mendivil
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Soy un **Ingeniero de Sistemas en formación** con un enfoque multidisciplinario
 
 📧 **Email:** [mendiviljesus2505@gmail.com](mailto:mendiviljesus2505@gmail.com)  
 🌐 **Nova Studio:** [www.novastud.com](http://www.novastud.com)  
-🏢 **Empresa Familiar:** [www.mendivileirl.com](http://www.mendivileirl.com)
+🏢 **Empresa Constructora:** [www.mendivileirl.com](http://www.mendivileirl.com)
 
 </div>
 
@@ -82,6 +82,6 @@ Soy un **Ingeniero de Sistemas en formación** con un enfoque multidisciplinario
 
 <div align="center">
 
-### 💭 *"Buscando siempre la excelencia y la innovación en cada proceso."*
+### *"Buscando siempre la excelencia y la innovación en cada proceso."*
 
 </div>
