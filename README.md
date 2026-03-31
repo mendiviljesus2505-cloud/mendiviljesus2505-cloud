@@ -45,12 +45,6 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
 
 ### 📊 Tecnologías que utilizo
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
 <div align="center">
   <h3>🌟 Frontend Frameworks and Tools</h3>
 </div>
