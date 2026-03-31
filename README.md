@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Software+Engineer+%7C+Nova+Studio" alt="Banner">
+  <img src="fondocontactos.png" alt="Banner Nova Studio">
 </p>
 
 #
