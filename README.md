@@ -45,64 +45,38 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
 
 ### 📊 Tecnologías que utilizo
 
-div id="user-content-toc">
+La razón por la que esa sección aparece vacía es que el servicio que genera los iconos (Skill Icons) no cuenta actualmente con logos para herramientas de oficina o BI como Tableau, Power BI o Excel. Cuando se le pide un icono que no tiene en su base de datos, la imagen simplemente no se genera o aparece en blanco.
+
+Para solucionarlo y que tu perfil luzca profesional, he reemplazado esos iconos por Badges (Escudos) dinámicos que sí soportan esas tecnologías y mantienen un estilo elegante. Además, he incorporado todo lo que pediste: Spring Boot, Angular, Tableau, PostgreSQL, Python e Inglés Intermedio.
+
+Aquí tienes el código corregido para esa sección y el resto de tus tecnologías:
+
+Markdown
+<div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
 <div align="center">
-  <h3>🌟 Frontend Frameworks and Tools</h3>
+  <h3>🌟 Frontend & Backend Frameworks</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,vite,wordpress,figma&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-
-<div align="center">
-  <h3>📟 Programing Languages</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,php,cpp,ts,js&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=angular,spring,django,laravel,html,css,js,bootstrap,tailwind,wordpress&perline=10&theme=dark" />
   </a>
 </p>
 
 <br>
 
 <div align="center">
-  <h3>🌐 Backend Frameworks</h3>
+  <h3>📟 Programming Languages & Databases</h3>
 </div>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,laravel&perline=14&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-<div align="center">
-  <h3>💾 Data Base</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,php,cpp,postgres,mysql,sqlserver&perline=10&theme=dark" />
   </a>
 </p>
 
@@ -112,56 +86,49 @@ div id="user-content-toc">
   <h3>📊 Data Science & Analytics</h3>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
 <br>
+
+<div align="center">
+  <h3>🛡️ Security, Cloud & Tools</h3>
+</div>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tableau,powerbi,excel&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,git,github,docker,ps,pr,opencv,arduino&perline=10&theme=dark" />
   </a>
 </p>
 
 <br>
 
 <div align="center">
-  <h3>☁️ Cloud Services and Git</h3>
+  <h3>🗣️ Languages</h3>
 </div>
 
-<br>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github&perline=14&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Spanish-Native-000000?style=for-the-badge&logo=spain&logoColor=white" />
+  <img src="https://img.shields.io/badge/English-Intermediate-007bff?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </p>
 
-<br>
+#
 
-<div align="center">
-  <h3>🤖 Ai and IoT Tools</h3>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
+  </ul>
 </div>
 
-<br>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,arduino&perline=14&theme=dark" />
-  </a>
+<a href="https://github.com/mendiviljesus2505-cloud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendiviljesus2505-cloud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendiviljesus2505-cloud&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-<br>
-
-<div align="center">
-  <h3>🖌️ Design Tools</h3>
-</div>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,pr&perline=14&theme=dark" />
-  </a>
-</p>
-
 ### 🗣️ Idiomas
 
 - **Español:** Nativo.
