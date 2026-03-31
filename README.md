@@ -178,16 +178,3 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
 </div>
 
 #
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">MIS ESTADÍSTICAS 📈</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-<a href="https://github.com/mendiviljesus2505-cloud">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mendiviljesus2505-cloud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendiviljesus2505-cloud&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
