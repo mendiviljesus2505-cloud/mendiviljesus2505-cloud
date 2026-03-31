@@ -45,10 +45,121 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
 
 ### 📊 Tecnologías que utilizo
 
+div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <h3>🌟 Frontend Frameworks and Tools</h3>
+</div>
+
+<br>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,html,css,angular,spring,django,laravel,mysql,postgres,tableau,git,github,docker,aws&perline=14&theme=dark" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,html,css,js,bootstrap,tailwind,vite,wordpress,figma&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+
+<div align="center">
+  <h3>📟 Programing Languages</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,php,cpp,ts,js&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>🌐 Backend Frameworks</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,laravel&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>💾 Data Base</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>📊 Data Science & Analytics</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tableau,powerbi,excel&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>☁️ Cloud Services and Git</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,github&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>🤖 Ai and IoT Tools</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,arduino&perline=14&theme=dark" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <h3>🖌️ Design Tools</h3>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,pr&perline=14&theme=dark" />
+  </a>
 </p>
 
 ### 🗣️ Idiomas
