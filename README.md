@@ -159,9 +159,6 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
   <img src="https://img.shields.io/badge/Inglés-Intermedio-007bff?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Inglés Intermedio">
 </p>
 
-<p align="center">
-  <i>Actualmente fortaleciendo mis habilidades de comunicación técnica en entornos globales 🌍</i>
-</p>
 
 ## 📁 Proyectos Destacados (Software & Data)
 
@@ -173,16 +170,24 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
 
 #
 
+Para que tus redes sociales se vean uniformes y profesionales, he añadido el icono de Instagram junto al de LinkedIn, manteniendo el mismo tamaño y alineación.
+
+Aquí tienes el código para actualizar tu sección de contacto:
+
+Markdown
 ## 📫 Conecta Conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mendivil-imbertis-jesus/" target="_blank">
-<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</a>
+  <a href="https://www.linkedin.com/in/mendivil-imbertis-jesus/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" style="margin-right: 15px;" />
+  </a>
+  <a href="https://www.instagram.com/jesusmendivil__/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" width="50" />
+  </a>
 </p>
 
 <div align="center">
-  📧 <b>Email:</b> mendiviljesus2505@gmail.com
+  [cite_start]📧 <b>Email:</b> <a href="mailto:mendiviljesus2505@gmail.com">mendiviljesus2505@gmail.com</a> 
 </div>
 
 #
