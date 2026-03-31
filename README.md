@@ -148,12 +148,20 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
     <img src="https://skillicons.dev/icons?i=ps,pr&perline=14&theme=dark" />
   </a>
 </p>
-### 🗣️ Idiomas
 
-- **Español:** Nativo.
-- **Inglés:** Intermedio (en formación).
+<div align="center">
+  <h3>🗣️ Idiomas</h3>
+</div>
 
-#
+<p align="center">
+  <img src="https://img.shields.io/badge/Español-Nativo-E31D1C?style=for-the-badge&logo=espanol&logoColor=white" alt="Español Nativo">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Inglés-Intermedio-007bff?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Inglés Intermedio">
+</p>
+
+<p align="center">
+  <i>Actualmente fortaleciendo mis habilidades de comunicación técnica en entornos globales 🌍</i>
+</p>
 
 ## 📁 Proyectos Destacados (Software & Data)
 
