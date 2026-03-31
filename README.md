@@ -170,11 +170,6 @@ Soy un **Estudiante de Ingeniería de Sistemas** 🎓 de octavo ciclo en la Univ
 
 #
 
-Para que tus redes sociales se vean uniformes y profesionales, he añadido el icono de Instagram junto al de LinkedIn, manteniendo el mismo tamaño y alineación.
-
-Aquí tienes el código para actualizar tu sección de contacto:
-
-Markdown
 ## 📫 Conecta Conmigo
 
 <p align="center">
@@ -187,7 +182,7 @@ Markdown
 </p>
 
 <div align="center">
-  [cite_start]📧 <b>Email:</b> <a href="mailto:mendiviljesus2505@gmail.com">mendiviljesus2505@gmail.com</a> 
+  📧 <b>Email:</b> <a href="mailto:mendiviljesus2505@gmail.com">mendiviljesus2505@gmail.com</a> 
 </div>
 
 #
