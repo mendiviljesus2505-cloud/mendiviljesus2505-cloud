@@ -1,87 +1,86 @@
-# ¡Hola! Soy Jesus Mendivil
-
-<div align="center">
-
-🎓 **Estudiante de Ingeniería de Sistemas (9no Ciclo)** 💡 Apasionado por la transformación digital, el análisis de datos y la innovación
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mendivil-imbertis-jesus/)
-[![GitHub followers](https://img.shields.io/github/followers/mendiviljesus2505-cloud?label=Seguidores&style=social)](https://github.com/mendiviljesus2505-cloud)
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block; color: #007bff">Hi 👋, I'm <span style="color: #00d4ff">Jesus Mendivil</span></h1></summary>
+  </ul>
 </div>
 
----
+<p align="center">
+  <img src="https://via.placeholder.com/800x200?text=Software+Engineer+%7C+Nova+Studio" alt="Banner">
+</p>
 
-## 🚀 Sobre mí
+#
 
-Soy un **Ingeniero de Sistemas en formación** con un enfoque multidisciplinario que combina el desarrollo de software con la gestión de proyectos y el análisis de datos. Me destaco por mi capacidad de liderazgo colaborativo y mi adaptabilidad a nuevos retos tecnológicos.
+## 👋 Sobre Mí
 
-* 🎓 **Excelencia Académica:** Segundo puesto histórico en la carrera de Ingeniería de Sistemas en la UCV.
-* 💼 **Emprendimiento:** Co-fundador de **Nova Studio**, donde lidero el diseño de soluciones web personalizadas.
-* 🔬 **Investigación:** Co-autor de publicaciones sobre sistemas de riego inteligentes con IoT y Machine Learning.
-* 🎯 **Objetivo:** Impulsar la optimización de procesos mediante tecnología de vanguardia.
+Soy un **estudiante de Ingeniería de Sistemas** 🎓 apasionado por el desarrollo de software y la ciberseguridad. Me enfoco en crear soluciones tecnológicas innovadoras, desde asistentes virtuales hasta sistemas de gestión empresarial.
 
----
+### 🌐 Mis Intereses
+- **Software Development** 💻
+- **Cybersecurity** 🛡️
+- **Intelligent Systems** 🤖
+- **Entrepreneurship** 🚀
 
-## 🏆 Proyectos Destacados
+🚀 Cofundador de **Nova Studio**, una startup dedicada a la innovación tecnológica.
 
-### 🌾 **Sistema de Riego Inteligente (IoT & ML)**
-> **Logro:** 🥈 Segundo Lugar en Expowork Internacional 2024-II  
-> **Tecnología:** ESP32 + OpenCV + Python + Telegram  
-> **Descripción:** Proyecto premiado que integra monitoreo en tiempo real y energías renovables para el cuidado eficiente de plantas.
+## 🏆 Hitos y Logros
 
-### 📊 **Dashboard de Control de Gastos - MIGAMA**
-> **Tecnología:** Power BI + ETL + Procesos OLAP  
-> **Descripción:** Sistema de análisis financiero que facilita la toma de decisiones estratégicas mediante reportes dinámicos e indicadores clave.
+- 🥈 **2do Puesto:** Sistema de Riego Inteligente con ESP32, OpenCV y Energías Renovables.
+- 🚀 **Co-Founder:** Nova Studio.
+- 🛠️ **Creador de Nova:** Asistente virtual inteligente desarrollado en Python.
+- 📄 **Investigador:** Autor de "Análisis del incidente UCV 2024: Filtración masiva de datos".
 
-### 📦 **Sistema Web de Inventario - Cober Construcciones**
-> **Tecnología:** PHP + MySQL + JavaScript + HTML/CSS  
-> **Descripción:** Plataforma responsiva para gestión de materiales, generación de presupuestos en PDF e historial de cotizaciones.
+#
 
----
+## 🔧 Skills & Tecnologías
 
-## 🛠️ Stack Tecnológico
+- **Frameworks:** Angular (Basic), Spring Boot, Django, Laravel (MVC)
+- **Lenguajes:** Python (Nova AI), PHP, JavaScript, C++, HTML, CSS
+- **Arquitectura:** MVC
+- **Bases de Datos:** MySQL, SQL Server, PostgreSQL
+- **Herramientas:** ESP32, OpenCV, Telegram API, Dropbox API
 
-<div align="center">
+### 👨🏻‍💻 Tecnologías que utilizo
 
-### **Lenguajes y Desarrollo Web**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,js,cpp,html,css,angular,spring,django,mysql,postgres,git,github,docker,aws&perline=14&theme=dark" />
+  </a>
+</p>
 
-### **Análisis de Datos y Herramientas**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#
 
-</div>
+## 📁 Proyectos Destacados
 
----
+* **Nova:** Asistente virtual inteligente en Python.
+* **Commerce Ale Boutique:** Sistema de gestión de inventario para e-commerce.
+* **Sistema de Reservas:** Sistema de registro de 4 fases bajo arquitectura MVC.
+* **Mendivil E.I.R.L.:** Digitalización y soporte tecnológico para la empresa familiar de construcción.
 
-## 📜 Certificaciones Clave
-* **PCAP:** Programming Essentials in Python (Cisco).
-* **CCNA v7:** Introduction to Networks (Cisco).
-* **Data Scientist Fundamentals:** Big Data Academy.
-* **Operating Systems Basics:** Cisco Networking Academy.
+#
 
----
+## 📫 Conecta Conmigo
 
-## 🤝 Conecta conmigo
-
-<div align="center">
-
-📧 **Email:** [mendiviljesus2505@gmail.com](mailto:mendiviljesus2505@gmail.com)  
-🌐 **Nova Studio:** [www.novastud.com](http://www.novastud.com)  
-🏢 **Empresa Constructora:** [www.mendivileirl.com](http://www.mendivileirl.com)
-
-</div>
-
----
+<p align="center">
+<a href="www.linkedin.com/in/mendivil-imbertis-jesus" target="_blank">
+<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+</p>
 
 <div align="center">
-
-### *"Buscando siempre la excelencia y la innovación en cada proceso."*
-
+  📧 <b>Email:</b> mendiviljesus2505@gmail.com
 </div>
+
+#
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">MIS ESTADÍSTICAS 📈</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://github.com/mendiviljesus2505-cloud">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
